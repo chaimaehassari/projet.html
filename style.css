@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nvb{
+    color: black;
+    font-size: large;
+    margin: 5px;
+}
+h2{
+text-align: center;
+margin: 10PX;
+padding: 10px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}  
+h4{
+    text-align: center;
+}
+.lien{
+    color:crimson;
+}
+#name{
+    border-radius: 10px;
+   margin: 4px;
+   padding: 4px;
+}
+#Email{
+    border-radius: 10px;
+    margin: 4px;
+    padding: 4px; 
+}
+#message{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+}
+.Envoy{
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+    width: 70px;
+    height: 40px;
+}
+.Envoy:hover{
+    background-color:black ;
+    color: forestgreen;
+    border-radius: 30px;
+    width: 80px;
+    height: 70px;
+}
